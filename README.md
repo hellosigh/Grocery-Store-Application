@@ -1,2 +1,52 @@
 # Grocery-Store-Application
 the Grocery Store Management System is the tech whiz behind the scenes of a grocery store. It tells the computerized cash register what to do when you buy something and makes sure the digital shelves are stocked. It's like the store's computer brain, helping everything run super smoothly.
+
+# It has  3 tier application development
+  1. Front end: UI will be in HTML,CSS,Javascript
+  2. Back end: python flask serve
+  3. Database: Mysql
+# Tools
+  Pycharm 
+# Server
+ flask serve
+
+# Step below for run this project 
+ schema:GS
+1  design database schema:GS
+2) Create database in mysql, assign primary keys
+   Table Details:
+     1)Order_details
+     2) Order
+     3) Prodcut
+     4) UOM
+3) Develop foreign key constrains
+4) Insert sample records in database 
+5) Writen code to run SQL queries in python using mysql connector
+6) Build a front end or UI code for products management
+7) Writen python flask server that connects front end with backend
+8) Completed products module where one can list all current products, add and delete a product
+9)  implement insert order functionality
+10) writen code to list orders on home page for our grocery store application
+
+# Run python code on flask server for testing, below are details for our following request
+http://127.0.0.1:5000/getProducts
+http://127.0.0.1:5000/getUOM
+http://127.0.0.1:5000/insertProduct
+http://127.0.0.1:5000/deleteProduct
+http://127.0.0.1:5000/getAllOrders
+http://127.0.0.1:5000/insertOrder
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+

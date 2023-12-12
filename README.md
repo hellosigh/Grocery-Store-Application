@@ -36,6 +36,10 @@ the Grocery Store Management System is the tech whiz behind the scenes of a groc
 5 http://127.0.0.1:5000/getAllOrders
 6 http://127.0.0.1:5000/insertOrder
 
+# Database screen short
+![image](https://github.com/hellosigh/Grocery-Store-Application/assets/124508230/4675d3e2-2eec-49f5-a303-1b03b7b02f02)
+
+
 
 
 

@@ -10,6 +10,9 @@ the Grocery Store Management System is the tech whiz behind the scenes of a groc
 # Server
  flask serve
 
+ # Database 
+  Mysql
+
 # Step below for run this project 
  schema:GS
 1  design database schema:GS

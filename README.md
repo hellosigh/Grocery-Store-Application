@@ -39,6 +39,28 @@ the Grocery Store Management System is the tech whiz behind the scenes of a groc
 # Database screen short
 ![image](https://github.com/hellosigh/Grocery-Store-Application/assets/124508230/4675d3e2-2eec-49f5-a303-1b03b7b02f02)
 
+# Product List Screen short
+![image](https://github.com/hellosigh/Grocery-Store-Application/assets/124508230/e52e442a-45c4-4e05-b7b2-857aacd9dc78)
+
+# Add New Product
+![image](https://github.com/hellosigh/Grocery-Store-Application/assets/124508230/5bf8fa7a-cae0-4bdf-ba9c-d61d3663109a)
+
+Database-screen-short
+![image](https://github.com/hellosigh/Grocery-Store-Application/assets/124508230/c2519946-8a9f-4b86-8afd-f7a5acbde429)
+
+# New Order Screen-short
+![image](https://github.com/hellosigh/Grocery-Store-Application/assets/124508230/532f2223-77c5-40ab-96bc-f43847a3b800)
+
+
+Thanks 
+
+
+
+
+
+
+
+
 
 
 

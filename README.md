@@ -2,8 +2,8 @@
 the Grocery Store Management System is the tech whiz behind the scenes of a grocery store. It tells the computerized cash register what to do when you buy something and makes sure the digital shelves are stocked. It's like the store's computer brain, helping everything run super smoothly.
 
 # It has  3 tier application development
-  1. Front end: UI will be in HTML,CSS,Javascript
-  2. Back end: python flask serve
+  1. Front end:HTML,CSS,Javascript
+  2. Back end: Python flask serve
   3. Database: Mysql
 # Tools
   Pycharm 
@@ -29,12 +29,12 @@ the Grocery Store Management System is the tech whiz behind the scenes of a groc
 10) writen code to list orders on home page for our grocery store application
 
 # Run python code on flask server for testing, below are details for our following request
-http://127.0.0.1:5000/getProducts
-http://127.0.0.1:5000/getUOM
-http://127.0.0.1:5000/insertProduct
-http://127.0.0.1:5000/deleteProduct
-http://127.0.0.1:5000/getAllOrders
-http://127.0.0.1:5000/insertOrder
+1 http://127.0.0.1:5000/getProducts
+2 http://127.0.0.1:5000/getUOM
+3 http://127.0.0.1:5000/insertProduct
+4 http://127.0.0.1:5000/deleteProduct
+5 http://127.0.0.1:5000/getAllOrders
+6 http://127.0.0.1:5000/insertOrder
 
 
 
